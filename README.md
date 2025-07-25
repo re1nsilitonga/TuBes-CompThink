@@ -1,11 +1,7 @@
-# TuBes-CompThink
-
-Here's a README for your "Tol JORR (Jakarta Outer Ringroad) Automatic Toll Gate" project, written in English.
-
-JORR Toll Gate Automatic Toll System
+# JORR Toll Gate Automatic Toll System
 This project simulates an automated toll gate system for the Jakarta Outer Ring Road (JORR) in Indonesia. It allows users to select entry and exit toll gates, calculates the shortest route and distance, determines the toll fare based on vehicle class and distance, and offers various payment methods.
 
-Table of Contents
+# Table of Contents
 Features
 
 How it Works
